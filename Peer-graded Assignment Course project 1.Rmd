@@ -1,0 +1,14 @@
+---
+title: "Peer-graded Assignment Course Project 1"
+output: html_document
+---
+
+# Data set 
+1. raw.csv : Raw data that is downloaded from course link 
+2. processed.csv: Data after some elementary transformation 
+
+# Variables in the Data set: 
+1. **step :** Number of steps taking in a 5-minutes interval 
+2. **date :** The date on which the measurement is taken 
+3. **interval :** Identifier for the 5-minute interval on which measurement is taken 
+
